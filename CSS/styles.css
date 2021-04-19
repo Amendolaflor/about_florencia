@@ -99,7 +99,10 @@ h1 {
 .skillsimage {
     width: 20%;
 }
-
+.skill-row {
+    padding-top: 50px;
+    
+}
 
 
 /* ESTILOS GET IN TOUCH */
